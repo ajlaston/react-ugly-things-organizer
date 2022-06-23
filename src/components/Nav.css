@@ -1,0 +1,24 @@
+aside {
+    background-color: rgb(214, 214, 214);
+    padding: 30px;
+    height: 100%;
+    width: 200px;
+    flex: 1 1 800px;
+}
+
+.side-link {
+    font-size: 40px;
+    
+    text-decoration: none;
+    color: black;
+    
+}
+
+.selected {
+    color: rgb(20, 86, 199);
+}
+
+.nav-container {
+    height: 100%;
+    
+}

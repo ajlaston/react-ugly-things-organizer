@@ -1,0 +1,24 @@
+.form-title {
+    text-align: center;
+}
+
+.form div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    width: 100px;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: rgb(138, 144, 148);
+    color: white;
+}
